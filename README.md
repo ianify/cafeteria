@@ -28,7 +28,7 @@ O projeto segue uma organização por **Features** (Vertical Slices / separaçã
 - [x] Ambiente containerizado com **Docker Compose** (PostgreSQL 16 + API).
 - [x] *Seeder* inicial com usuário `Manager` e 50 produtos cadastrados no cardápio.
 
-## Como Rodar a Aplicação
+## Como executar a aplicação
 
 ### Pré-requisitos
 
@@ -43,6 +43,12 @@ git clone https://github.com/ianify/cafeteria
 Acesse o diretorio
 ```
 cd <PASTA_DO_PROJETO>
+```
+Crie um .env com as variaveis abaixo
+```
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DB=cafeteria_db
 ```
 Execute o comando do docker compose
 ```
