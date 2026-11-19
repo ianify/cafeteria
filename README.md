@@ -66,3 +66,6 @@ O projeto conta com uma arquitetura modular baseada em Features, favorecendo a m
 
 Este é um rascunho do meu brainstorm durante o projeto.
 
+<img width="1314" height="1132" alt="image" src="https://github.com/user-attachments/assets/eadb8582-1c80-443d-92c6-360aebc01fff" />
+
+
