@@ -47,4 +47,8 @@ cd <PASTA_DO_PROJETO>
 Execute o comando do docker compose
 ```
 docker compose up -d --build
-```# cafeteria
+```
+Acesse o swagger
+```
+http://localhost:5080/swagger/index.html
+```
