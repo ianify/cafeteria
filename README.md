@@ -58,3 +58,11 @@ Acesse o swagger
 ```
 http://localhost:5080/swagger/index.html
 ```
+
+## Uso de IA
+A inteligência artificial foi utilizada na criação das entidades a partir do diagrama do banco de dados que projetei, bem como na estruturação de validações de regras de negócio nos Services e nos Controllers. O processo foi feito via navegador com o modelo Gemini 3.5 Flash-Lite, sem o uso de Agent devido à indisponibilidade de acesso no momento.
+
+O projeto conta com uma arquitetura modular baseada em Features, favorecendo a manutenibilidade, a legibilidade e portabilidade para eventuais migrações.
+
+Este é um rascunho do meu brainstorm durante o projeto.
+
